@@ -52,7 +52,7 @@ Looking at the pipeline data, a pattern emerges: most deals that are lost have a
 ---
 
 ## Tools Used
-- **dbt** (dbt-fusion) for all data transformations
+- **dbt** (dbt-fusion) for all data transformations, including tests to validate key columns across models (unique, not_null, accepted_values)
 - **BigQuery** as the data warehouse
 - **Streamlit + Plotly + pandas + matplotlib** for the dashboard
 - **AI** was used primarily for debugging dbt errors, documentation, and sense-checking analysis logic. In addition, Streamlit was new to me, and I used AI to learn the library as part of the challenge.
