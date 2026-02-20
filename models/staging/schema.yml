@@ -1,0 +1,76 @@
+version: 2
+
+models:
+
+  - name: stg_hubspot_deals
+    columns:
+      - name: deal_id
+        data_tests:
+          - unique
+          - not_null
+      - name: amount
+        data_tests:
+          - not_null
+      - name: is_closed_won
+        data_tests:
+          - not_null
+
+  - name: stg_hubspot_companies
+    columns:
+      - name: company_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: stg_backend_events
+    columns:
+      - name: event_id
+        data_tests:
+          - unique
+          - not_null
+      - name: event_name
+        data_tests:
+          - accepted_values:
+              arguments:
+                values:
+                  - TokenGenerated
+                  - SearchCreated
+                  - SearchUpdated
+                  - SearchExecuted
+                  - SearchExported
+                  - SearchResultAppraised
+                  - SearchResultFullTextAppraised
+                  - LabelCreated
+                  - LabelUpdated
+                  - LabelDeleted
+                  - UserCreated
+                  - UserUpdated
+                  - OrganizationCreated
+                  - OrganizationUpdated
+
+  - name: int_deal_funnel_stages
+    columns:
+      - name: deal_id
+        data_tests:
+          - unique
+          - not_null
+      - name: outcome
+        data_tests:
+          - accepted_values:
+              arguments:
+                values:
+                  - won
+                  - lost
+                  - open
+
+  - name: fct_total_customers
+    columns:
+      - name: total_active_customers
+        data_tests:
+          - not_null
+
+  - name: fct_acv
+    columns:
+      - name: average_contract_value
+        data_tests:
+          - not_null

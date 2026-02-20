@@ -1,0 +1,490 @@
+contact_id,first_name,last_name,email,job_title,hubspot_company_id,lifecycle_stage,create_date
+500000,Sarah,Bernard,sarah.bernard@acumed.com,Post-Market Surveillance Manager,1000000,customer,2025-10-03 05:02:36
+500001,Hannah,Lange,hannah.lange@acumed.com,Director Regulatory Affairs,1000000,customer,2025-10-10 15:20:33
+500011,Yasmin,Schulz,yasmin.schulz@acumed.com,QA/RA Engineer,1000000,customer,2025-06-04 02:14:01
+500019,Sophie,Lehmann,sophie.lehmann@biovance.com,Compliance Officer,1000106,customer,2025-09-04 05:31:53
+500027,Florian,Zimmermann,florian.zimmermann@biovance.com,Head of Quality Management,1000106,customer,2025-09-17 21:58:25
+500031,Julia,Neumann,julia.neumann@biovance.com,Technical Documentation Specialist,1000106,customer,2025-06-30 04:32:42
+500035,Daniel,Bianchi,daniel.bianchi@clearpath.com,Head of Quality Management,1000379,customer,2025-01-07 00:25:45
+500040,Thomas,Peters,thomas.peters@clearpath.com,Senior Regulatory Consultant,1000379,customer,2024-10-12 08:12:22
+500043,Marie,Lopez,marie.lopez@clearpath.com,Product Manager,1000379,customer,2024-08-07 17:31:51
+500044,Simon,Jansen,simon.jansen@clearpath.com,Risk Management Engineer,1000379,customer,2024-12-18 03:50:04
+500046,Andreas,Martin,andreas.martin@clearpath.com,CEO,1000379,customer,2024-12-14 00:41:12
+500048,Rosa,Maier,rosa.maier@dentalpro.co,Director Regulatory Affairs,1000486,customer,2025-10-04 04:13:33
+500055,Felix,Schroeder,felix.schroeder@dentalpro.co,COO,1000486,customer,2025-09-18 05:27:40
+500056,Sophie,Fischer,sophie.fischer@dentalpro.co,COO,1000486,customer,2025-07-04 13:59:03
+500060,Yasmin,Meyer,yasmin.meyer@dentalpro.co,Head of Regulatory Affairs,1000486,customer,2025-06-30 16:55:33
+500066,Andreas,Williams,andreas.williams@evomed.co,Director Regulatory Affairs,1000636,customer,2025-08-05 06:17:15
+500069,Clara,Zimmermann,clara.zimmermann@evomed.co,Technical Documentation Specialist,1000636,customer,2025-11-18 00:59:04
+500072,Amelie,Pedersen,amelie.pedersen@evomed.co,Head of Regulatory Affairs,1000636,customer,2025-08-29 08:23:20
+500074,Quentin,Wolf,quentin.wolf@flexisurg.io,Risk Management Engineer,1000807,customer,2025-03-05 06:44:00
+500084,Tim,Huber,tim.huber@flexisurg.io,CEO,1000807,customer,2024-10-26 00:01:12
+500088,Tanja,Becker,tanja.becker@flexisurg.io,Senior Regulatory Consultant,1000807,customer,2024-10-14 13:58:13
+500098,Elena,Becker,elena.becker@genomatech.com,Technical Documentation Specialist,1000994,customer,2024-12-12 19:16:34
+500108,Julia,Schmidt,julia.schmidt@genomatech.com,Compliance Officer,1000994,customer,2024-11-05 22:49:50
+500111,Stefan,Huber,stefan.huber@genomatech.com,COO,1000994,customer,2024-07-15 11:32:35
+500115,Lena,Scholz,lena.scholz@genomatech.com,Regulatory Specialist,1000994,customer,2024-08-17 21:58:52
+500124,Xenia,Weber,xenia.weber@genomatech.com,Risk Management Engineer,1000994,customer,2025-01-02 19:29:20
+500133,Sarah,Rossi,sarah.rossi@genomatech.com,Technical Documentation Specialist,1000994,customer,2024-07-18 20:37:45
+500134,Yasmin,Lehmann,yasmin.lehmann@healthbridge.com,Head of Regulatory Affairs,1001191,customer,2025-02-11 14:44:28
+500140,Elena,Werner,elena.werner@healthbridge.com,VP Quality & Regulatory,1001191,customer,2025-02-09 08:38:09
+500150,Michael,Lange,michael.lange@healthbridge.com,COO,1001191,customer,2025-01-20 23:18:05
+500159,Vera,Williams,vera.williams@healthbridge.com,Head of Quality Management,1001191,customer,2025-01-28 11:21:25
+500167,Emma,Richter,emma.richter@healthbridge.com,Regulatory Specialist,1001191,customer,2025-05-23 00:38:31
+500175,Clara,Zimmermann,clara.zimmermann@healthbridge.com,Clinical Affairs Manager,1001191,customer,2025-02-02 05:50:42
+500176,Uwe,Krueger,uwe.krueger@healthbridge.com,Risk Management Engineer,1001191,customer,2025-03-30 17:25:45
+500184,Quentin,Schneider,quentin.schneider@healthbridge.com,Clinical Affairs Manager,1001191,customer,2025-05-12 13:11:19
+500189,Thomas,Fischer,thomas.fischer@innocare.eu,CTO,1001477,customer,2025-08-13 12:10:23
+500194,Hans,Lehmann,hans.lehmann@innocare.eu,Regulatory Affairs Associate,1001477,customer,2025-05-28 07:33:16
+500202,Yasmin,Lange,yasmin.lange@innocare.eu,Technical Documentation Specialist,1001477,customer,2025-09-01 22:24:37
+500210,Xenia,Martin,xenia.martin@innocare.eu,Regulatory Specialist,1001477,customer,2025-04-27 16:09:28
+500217,Felix,Huber,felix.huber@innocare.eu,QA/RA Engineer,1001477,customer,2025-06-27 02:31:22
+500226,Uwe,Wagner,uwe.wagner@jointflex.com,CEO,1001737,customer,2025-04-13 14:38:01
+500231,Lisa,Lopez,lisa.lopez@jointflex.com,QA/RA Engineer,1001737,customer,2025-08-06 09:02:23
+500239,Wolfgang,Maier,wolfgang.maier@jointflex.com,COO,1001737,customer,2025-04-06 19:42:37
+500249,Max,Braun,max.braun@jointflex.com,Quality Manager,1001737,customer,2025-07-23 07:14:36
+500251,Hannah,Johnson,hannah.johnson@jointflex.com,Post-Market Surveillance Manager,1001737,customer,2025-06-11 07:33:51
+500254,Jonas,Lopez,jonas.lopez@kinemed.com,Head of Quality Management,1001848,customer,2025-02-05 02:09:30
+500255,Ingrid,Weber,ingrid.weber@kinemed.com,COO,1001848,customer,2024-11-17 12:18:52
+500261,Yasmin,Bianchi,yasmin.bianchi@kinemed.com,Director Regulatory Affairs,1001848,customer,2024-10-11 20:43:08
+500269,Xenia,Maier,xenia.maier@lifelink.de,Director Regulatory Affairs,1002045,customer,2025-02-15 08:44:15
+500278,Xenia,Fuchs,xenia.fuchs@lifelink.de,Product Manager,1002045,customer,2024-11-26 14:21:28
+500282,Hans,Schmidt,hans.schmidt@lifelink.de,Technical Documentation Specialist,1002045,customer,2025-02-10 10:19:41
+500291,Yasmin,Rossi,yasmin.rossi@lifelink.de,Product Manager,1002045,customer,2024-10-22 04:56:24
+500299,Nina,Anderson,nina.anderson@lifelink.de,Technical Documentation Specialist,1002045,customer,2024-11-21 09:54:17
+500303,Ingrid,Weber,ingrid.weber@medcore.co,Head of Quality Management,1002316,customer,2024-12-11 05:54:38
+500305,Daniel,Hartmann,daniel.hartmann@medcore.co,Regulatory Specialist,1002316,customer,2025-01-19 02:09:14
+500314,Julia,Zimmermann,julia.zimmermann@medcore.co,QA/RA Engineer,1002316,customer,2025-02-28 07:38:20
+500317,Sarah,Schroeder,sarah.schroeder@novascan.co,Clinical Affairs Manager,1002602,customer,2025-05-01 17:08:05
+500320,Petra,De Vries,petra.de vries@novascan.co,Risk Management Engineer,1002602,customer,2025-04-14 14:23:45
+500330,Xenia,Kaiser,xenia.kaiser@novascan.co,Risk Management Engineer,1002602,customer,2025-09-01 12:40:03
+500333,Florian,Meyer,florian.meyer@novascan.co,Regulatory Affairs Associate,1002602,customer,2025-04-21 16:52:51
+500341,Tim,Scholz,tim.scholz@novascan.co,Regulatory Specialist,1002602,customer,2025-08-26 07:38:23
+500344,Simon,Weber,simon.weber@orthogen.eu,Post-Market Surveillance Manager,1002758,customer,2024-12-21 08:28:18
+500350,Ingrid,Rossi,ingrid.rossi@orthogen.eu,QA/RA Engineer,1002758,customer,2025-01-24 12:29:30
+500353,Max,Dubois,max.dubois@orthogen.eu,Quality Manager,1002758,customer,2025-03-14 06:51:32
+500355,Tim,Schulz,tim.schulz@orthogen.eu,QA/RA Engineer,1002758,customer,2024-11-25 02:23:59
+500361,Andreas,Schroeder,andreas.schroeder@orthogen.eu,Post-Market Surveillance Manager,1002758,customer,2024-12-02 15:24:05
+500366,Quentin,Klein,quentin.klein@precisionrx.de,Risk Management Engineer,1002960,customer,2025-05-09 11:00:54
+500371,Ingrid,Johnson,ingrid.johnson@precisionrx.de,Risk Management Engineer,1002960,customer,2025-03-10 15:46:14
+500373,Sarah,Williams,sarah.williams@precisionrx.de,Director Regulatory Affairs,1002960,customer,2025-02-14 12:04:31
+500376,Florian,Kowalski,florian.kowalski@qualitech.de,CTO,1003227,customer,2025-07-24 21:43:46
+500386,Clara,Schmidt,clara.schmidt@qualitech.de,Product Manager,1003227,customer,2025-02-27 03:58:06
+500390,Thomas,Bianchi,thomas.bianchi@qualitech.de,Head of Regulatory Affairs,1003227,customer,2025-04-28 12:44:26
+500398,Emma,Bernard,emma.bernard@qualitech.de,CEO,1003227,customer,2025-04-05 16:28:02
+500406,Petra,Larsson,petra.larsson@qualitech.de,Head of Quality Management,1003227,customer,2025-04-26 15:24:19
+500408,Leah,Fischer,leah.fischer@qualitech.de,Senior Regulatory Consultant,1003227,customer,2025-03-12 23:59:35
+500416,Jan,Wolf,jan.wolf@qualitech.de,Director Regulatory Affairs,1003227,customer,2025-04-14 18:43:03
+500422,Andreas,Hartmann,andreas.hartmann@qualitech.de,COO,1003227,customer,2025-06-24 16:49:43
+500429,Amelie,Lehmann,amelie.lehmann@regenmed.co,VP Quality & Regulatory,1003517,customer,2025-02-14 03:05:28
+500435,Petra,Kaiser,petra.kaiser@regenmed.co,Head of Quality Management,1003517,customer,2024-12-05 11:40:17
+500439,Jonas,Wagner,jonas.wagner@regenmed.co,Regulatory Affairs Associate,1003517,customer,2024-11-22 12:59:30
+500449,Sophie,Neumann,sophie.neumann@regenmed.co,QA/RA Engineer,1003517,customer,2025-05-05 17:10:47
+500455,Charlotte,Hartmann,charlotte.hartmann@surgisafe.com,QA/RA Engineer,1003719,customer,2024-09-13 00:26:48
+500463,Sarah,Kaiser,sarah.kaiser@surgisafe.com,CEO,1003719,customer,2024-11-07 15:00:19
+500471,Ben,Meyer,ben.meyer@surgisafe.com,Post-Market Surveillance Manager,1003719,customer,2025-01-26 23:46:09
+500479,Petra,Wolf,petra.wolf@surgisafe.com,Quality Manager,1003719,customer,2024-11-22 20:24:36
+500480,Stefan,De Vries,stefan.de vries@surgisafe.com,Technical Documentation Specialist,1003719,customer,2024-11-25 09:38:40
+500485,Julia,Mueller,julia.mueller@surgisafe.com,Senior Regulatory Consultant,1003719,customer,2025-01-09 08:08:53
+500488,Quentin,Kowalski,quentin.kowalski@surgisafe.com,Regulatory Affairs Associate,1003719,customer,2024-10-14 16:31:22
+500494,Tobias,Fischer,tobias.fischer@techvita.com,Clinical Affairs Manager,1003847,customer,2025-03-05 01:13:01
+500500,Marco,Zimmermann,marco.zimmermann@techvita.com,Post-Market Surveillance Manager,1003847,customer,2024-12-05 15:15:26
+500508,Amelie,Rossi,amelie.rossi@techvita.com,VP Quality & Regulatory,1003847,customer,2025-01-11 17:59:37
+500511,Tobias,Lehmann,tobias.lehmann@unimed.com,CTO,1004045,customer,2025-09-16 10:49:58
+500520,Xenia,Schulz,xenia.schulz@unimed.com,Post-Market Surveillance Manager,1004045,customer,2025-06-01 04:48:25
+500527,Sarah,Schneider,sarah.schneider@unimed.com,Director Regulatory Affairs,1004045,customer,2025-05-04 12:35:14
+500533,Tim,Kaiser,tim.kaiser@vascutech.eu,Post-Market Surveillance Manager,1004319,customer,2024-11-08 22:31:59
+500536,Uwe,Anderson,uwe.anderson@vascutech.eu,Regulatory Affairs Associate,1004319,customer,2024-12-09 11:09:32
+500546,Michael,Krueger,michael.krueger@vascutech.eu,Post-Market Surveillance Manager,1004319,customer,2025-01-27 23:59:59
+500555,Julia,De Vries,julia.de vries@vascutech.eu,CEO,1004319,customer,2025-02-17 16:51:55
+500563,Ben,Lehmann,ben.lehmann@vascutech.eu,VP Quality & Regulatory,1004319,customer,2024-12-11 18:03:52
+500570,Patrick,Krueger,patrick.krueger@vascutech.eu,Head of Regulatory Affairs,1004319,customer,2025-03-05 13:05:24
+500580,Quentin,Williams,quentin.williams@wellpath.eu,Compliance Officer,1004447,customer,2025-10-03 03:20:47
+500581,Patrick,Jansen,patrick.jansen@wellpath.eu,Regulatory Affairs Associate,1004447,customer,2025-06-14 21:48:48
+500584,Daniel,Neumann,daniel.neumann@wellpath.eu,VP Quality & Regulatory,1004447,customer,2025-05-20 21:35:09
+500588,Ben,Maier,ben.maier@wellpath.eu,Director Regulatory Affairs,1004447,customer,2025-07-10 16:21:10
+500595,Leah,Wolf,leah.wolf@wellpath.eu,Technical Documentation Specialist,1004447,customer,2025-07-28 02:01:54
+500596,Andreas,Hoffmann,andreas.hoffmann@wellpath.eu,Risk Management Engineer,1004447,customer,2025-08-16 13:54:46
+500602,Laura,Martin,laura.martin@xenomed.co,QA/RA Engineer,1004675,customer,2024-11-06 17:32:23
+500610,Julia,Lange,julia.lange@xenomed.co,Product Manager,1004675,customer,2024-12-07 05:33:26
+500620,Laura,Klein,laura.klein@xenomed.co,Product Manager,1004675,customer,2025-02-19 05:21:16
+500629,Tanja,Schroeder,tanja.schroeder@xenomed.co,CEO,1004675,customer,2025-02-16 08:52:28
+500634,Andreas,Wolf,andreas.wolf@xenomed.co,Technical Documentation Specialist,1004675,customer,2025-01-02 03:29:36
+500640,Laura,Werner,laura.werner@xenomed.co,Product Manager,1004675,customer,2024-12-09 18:57:48
+500645,Hans,Bianchi,hans.bianchi@xenomed.co,Regulatory Affairs Associate,1004675,customer,2024-12-30 16:39:54
+500652,Wolfgang,Schulz,wolfgang.schulz@xenomed.co,CEO,1004675,customer,2024-10-22 04:24:44
+500654,Lisa,Williams,lisa.williams@zenithbio.co,Technical Documentation Specialist,1004930,customer,2025-04-16 21:03:43
+500658,Marie,Bernard,marie.bernard@zenithbio.co,Risk Management Engineer,1004930,customer,2025-04-19 12:31:03
+500663,Ingrid,Wagner,ingrid.wagner@zenithbio.co,Compliance Officer,1004930,customer,2025-06-20 12:56:56
+500667,David,Eriksson,david.eriksson@zenithbio.co,Compliance Officer,1004930,customer,2025-08-11 15:37:11
+500671,David,Wagner,david.wagner@zenithbio.co,Technical Documentation Specialist,1004930,customer,2025-05-15 02:41:09
+500673,Thomas,Hoffmann,thomas.hoffmann@alphadevice.eu,Risk Management Engineer,1005030,customer,2024-06-28 09:42:25
+500676,Sophie,Williams,sophie.williams@alphadevice.eu,Technical Documentation Specialist,1005030,customer,2024-12-12 18:39:42
+500684,Simon,Klein,simon.klein@alphadevice.eu,CEO,1005030,customer,2024-11-10 12:51:32
+500690,Stefan,Williams,stefan.williams@alphadevice.eu,Regulatory Specialist,1005030,customer,2024-07-08 02:54:20
+500700,Oliver,Bernard,oliver.bernard@alphadevice.eu,Quality Manager,1005030,customer,2024-11-07 10:26:56
+500703,Sophie,Richter,sophie.richter@alphadevice.eu,Quality Manager,1005030,customer,2024-12-12 13:52:08
+500710,Erik,Richter,erik.richter@alphadevice.eu,CEO,1005030,customer,2024-12-13 01:28:22
+500711,Anna,Krueger,anna.krueger@alphadevice.eu,VP Quality & Regulatory,1005030,customer,2024-10-07 16:55:06
+500717,Jan,Williams,jan.williams@betalab.com,Technical Documentation Specialist,1005191,customer,2025-05-08 05:46:45
+500720,Sarah,Kaiser,sarah.kaiser@betalab.com,VP Quality & Regulatory,1005191,customer,2025-03-20 13:22:38
+500726,Katrin,Kowalski,katrin.kowalski@betalab.com,Product Manager,1005191,customer,2025-04-23 01:13:54
+500729,Anna,Lange,anna.lange@betalab.com,Clinical Affairs Manager,1005191,customer,2025-06-21 18:50:15
+500732,Florian,Johnson,florian.johnson@betalab.com,Senior Regulatory Consultant,1005191,customer,2025-07-10 21:56:45
+500741,Felix,Fuchs,felix.fuchs@cardiosync.co,QA/RA Engineer,1005485,customer,2025-01-28 14:19:35
+500744,Laura,Hartmann,laura.hartmann@cardiosync.co,Head of Regulatory Affairs,1005485,customer,2025-03-17 13:54:24
+500749,Yasmin,Neumann,yasmin.neumann@cardiosync.co,Product Manager,1005485,customer,2024-12-19 13:02:18
+500755,Tanja,Garcia,tanja.garcia@cardiosync.co,Head of Regulatory Affairs,1005485,customer,2025-02-07 05:59:37
+500760,Simon,Lehmann,simon.lehmann@cardiosync.co,Quality Manager,1005485,customer,2025-02-01 19:54:05
+500762,Tanja,Koch,tanja.koch@diagnostech.de,Post-Market Surveillance Manager,1005627,opportunity,2025-07-06 18:02:04
+500767,Leah,Becker,leah.becker@diagnostech.de,CEO,1005627,opportunity,2025-08-17 17:52:03
+500773,Florian,Schroeder,florian.schroeder@diagnostech.de,Director Regulatory Affairs,1005627,opportunity,2025-06-03 05:16:12
+500781,Jonas,Kaiser,jonas.kaiser@diagnostech.de,COO,1005627,opportunity,2025-09-06 08:50:57
+500788,Amelie,Bernard,amelie.bernard@elitemed.com,Clinical Affairs Manager,1005909,opportunity,2025-08-15 08:58:01
+500792,Daniel,Lopez,daniel.lopez@elitemed.com,Regulatory Specialist,1005909,opportunity,2025-08-28 04:17:31
+500801,Lisa,Martin,lisa.martin@elitemed.com,Regulatory Specialist,1005909,opportunity,2025-07-28 16:37:05
+500811,Hans,Fischer,hans.fischer@elitemed.com,Post-Market Surveillance Manager,1005909,opportunity,2025-08-20 04:39:09
+500815,Katrin,Hartmann,katrin.hartmann@frontierbio.de,Head of Quality Management,1006072,opportunity,2025-08-23 04:29:01
+500817,Daniel,Wolf,daniel.wolf@frontierbio.de,Technical Documentation Specialist,1006072,opportunity,2025-07-29 10:11:23
+500819,David,Kaiser,david.kaiser@glucosense.de,Senior Regulatory Consultant,1006322,opportunity,2025-12-07 04:17:52
+500827,Lena,Fischer,lena.fischer@glucosense.de,CEO,1006322,opportunity,2026-01-07 13:29:18
+500828,Tobias,Schwarz,tobias.schwarz@glucosense.de,Clinical Affairs Manager,1006322,opportunity,2026-01-26 12:07:40
+500838,Elena,Schneider,elena.schneider@glucosense.de,Regulatory Specialist,1006322,opportunity,2025-12-28 15:06:07
+500847,Elena,Jansen,elena.jansen@heliocare.eu,Senior Regulatory Consultant,1006439,opportunity,2025-07-02 21:19:32
+500850,Thomas,Williams,thomas.williams@immunogen.co,Senior Regulatory Consultant,1006710,opportunity,2025-09-22 19:03:20
+500856,Yasmin,Maier,yasmin.maier@immunogen.co,Regulatory Affairs Associate,1006710,opportunity,2025-09-03 05:24:55
+500863,Daniel,Eriksson,daniel.eriksson@jurahealth.com,Director Regulatory Affairs,1006931,opportunity,2025-11-11 18:04:49
+500869,Lukas,Bernard,lukas.bernard@kardiomed.com,Director Regulatory Affairs,1007199,opportunity,2025-10-31 13:23:34
+500873,Amelie,Schmidt,amelie.schmidt@lumosdx.eu,Head of Quality Management,1007471,opportunity,2025-09-24 21:18:33
+500882,Julia,Peters,julia.peters@morphosurg.io,Compliance Officer,1007598,opportunity,2025-09-07 20:58:21
+500890,Wolfgang,Schulz,wolfgang.schulz@morphosurg.io,VP Quality & Regulatory,1007598,opportunity,2025-06-01 06:51:44
+500891,Hannah,Scholz,hannah.scholz@morphosurg.io,Head of Regulatory Affairs,1007598,opportunity,2025-08-01 08:31:25
+500895,Nina,Weber,nina.weber@morphosurg.io,Quality Manager,1007598,opportunity,2025-04-30 19:55:45
+500903,Petra,Schneider,petra.schneider@neurolink.co,Compliance Officer,1007744,opportunity,2025-04-01 20:56:24
+500912,Amelie,Fischer,amelie.fischer@optivision.de,CEO,1007869,opportunity,2025-06-23 13:34:22
+500916,Charlotte,Bianchi,charlotte.bianchi@optivision.de,CTO,1007869,opportunity,2025-07-25 17:51:04
+500920,Jonas,Eriksson,jonas.eriksson@probiomed.de,Senior Regulatory Consultant,1008011,opportunity,2025-04-05 14:41:08
+500925,Rosa,Fischer,rosa.fischer@probiomed.de,QA/RA Engineer,1008011,opportunity,2025-04-11 23:54:12
+500932,Marco,De Vries,marco.de vries@probiomed.de,COO,1008011,opportunity,2025-01-10 05:25:13
+500939,Leah,Scholz,leah.scholz@quantumcare.io,CEO,1008208,opportunity,2026-01-07 16:52:48
+500946,Lukas,Bernard,lukas.bernard@quantumcare.io,Compliance Officer,1008208,opportunity,2026-01-11 06:21:49
+500951,Andreas,Schulz,andreas.schulz@quantumcare.io,Quality Manager,1008208,opportunity,2026-01-29 09:35:12
+500960,Sophie,Rossi,sophie.rossi@robosurg.de,Regulatory Affairs Associate,1008486,opportunity,2025-07-23 16:43:30
+500964,Quentin,Wolf,quentin.wolf@robosurg.de,Regulatory Specialist,1008486,opportunity,2025-06-17 17:53:48
+500972,Xenia,Meyer,xenia.meyer@robosurg.de,Clinical Affairs Manager,1008486,opportunity,2025-07-24 17:06:21
+500973,Rosa,Peters,rosa.peters@robosurg.de,Quality Manager,1008486,opportunity,2025-08-18 13:25:23
+500975,Amelie,Garcia,amelie.garcia@synaptimed.com,Risk Management Engineer,1008634,lead,2025-06-01 09:05:22
+500979,Nina,Lange,nina.lange@terramed.co,Head of Regulatory Affairs,1008925,lead,2024-11-20 12:15:44
+500983,Marie,Becker,marie.becker@terramed.co,Technical Documentation Specialist,1008925,lead,2025-02-08 09:00:30
+500987,Mia,Pedersen,mia.pedersen@ultracare.co,Compliance Officer,1009065,lead,2025-08-11 17:01:22
+500996,Uwe,Zimmermann,uwe.zimmermann@ultracare.co,Risk Management Engineer,1009065,lead,2025-09-12 09:59:05
+501002,Tanja,Schwarz,tanja.schwarz@ultracare.co,Technical Documentation Specialist,1009065,lead,2025-09-08 15:11:27
+501010,Charlotte,Jansen,charlotte.jansen@vivotech.de,CTO,1009182,lead,2025-10-14 04:39:17
+501014,Uwe,Scholz,uwe.scholz@wavepoint.co,Compliance Officer,1009430,lead,2025-01-31 11:50:32
+501017,Ben,Schwarz,ben.schwarz@wavepoint.co,Senior Regulatory Consultant,1009430,lead,2025-05-02 20:39:27
+501022,Marie,Lange,marie.lange@xcelmed.eu,Compliance Officer,1009663,lead,2025-02-10 12:33:56
+501030,Simon,Larsson,simon.larsson@yieldbio.io,Technical Documentation Specialist,1009824,lead,2025-12-03 04:30:44
+501038,Jan,Koch,jan.koch@yieldbio.io,COO,1009824,lead,2026-01-12 15:28:06
+501041,Ingrid,Kowalski,ingrid.kowalski@yieldbio.io,QA/RA Engineer,1009824,lead,2025-12-24 13:56:39
+501050,David,Martin,david.martin@ablemed.co,Regulatory Specialist,1010004,lead,2024-10-10 11:53:02
+501051,Amelie,Mueller,amelie.mueller@ablemed.co,Compliance Officer,1010004,lead,2024-12-17 15:17:59
+501053,Andreas,Schulz,andreas.schulz@ablemed.co,Post-Market Surveillance Manager,1010004,lead,2024-10-06 01:15:23
+501061,David,Anderson,david.anderson@biocrest.eu,Technical Documentation Specialist,1010129,lead,2025-12-25 16:43:37
+501069,Ben,Mueller,ben.mueller@biocrest.eu,Senior Regulatory Consultant,1010129,lead,2025-12-12 12:02:42
+501070,Tim,Kowalski,tim.kowalski@cerebrotech.co,CEO,1010246,lead,2025-03-07 09:37:39
+501071,Leah,Larsson,leah.larsson@dynastim.co,QA/RA Engineer,1010526,lead,2025-12-13 10:04:47
+501073,Greta,Martin,greta.martin@dynastim.co,Clinical Affairs Manager,1010526,lead,2025-11-14 22:29:30
+501083,Tim,Schwarz,tim.schwarz@dynastim.co,Product Manager,1010526,lead,2026-01-21 07:33:03
+501090,Xenia,Fuchs,xenia.fuchs@endovault.com,Compliance Officer,1010702,lead,2025-08-01 21:20:59
+501094,Daniel,Meyer,daniel.meyer@ferrocare.eu,Quality Manager,1010992,lead,2025-11-06 04:06:24
+501096,Tobias,Peters,tobias.peters@ferrocare.eu,Technical Documentation Specialist,1010992,lead,2025-09-17 09:20:28
+501097,Anna,Nielsen,anna.nielsen@geneticore.com,Technical Documentation Specialist,1011144,lead,2025-07-18 01:59:09
+501104,Simon,Lange,simon.lange@geneticore.com,VP Quality & Regulatory,1011144,lead,2025-09-27 02:06:34
+501113,Clara,Schroeder,clara.schroeder@geneticore.com,Technical Documentation Specialist,1011144,lead,2025-07-25 06:55:50
+501118,Elena,Larsson,elena.larsson@hypermed.de,Risk Management Engineer,1011267,lead,2026-02-03 02:31:47
+501128,Clara,Richter,clara.richter@infosurg.io,CTO,1011530,lead,2025-02-19 14:05:45
+501129,Nina,Garcia,nina.garcia@infosurg.io,Regulatory Affairs Associate,1011530,lead,2024-10-01 08:43:57
+501131,Tanja,Koch,tanja.koch@infosurg.io,Regulatory Affairs Associate,1011530,lead,2024-12-15 22:07:28
+501140,Yasmin,Hoffmann,yasmin.hoffmann@jetstream.com,Regulatory Specialist,1011773,lead,2025-10-13 21:56:11
+501149,Michael,Werner,michael.werner@jetstream.com,Senior Regulatory Consultant,1011773,lead,2025-06-03 06:57:11
+501153,Vera,Lopez,vera.lopez@kryptohealth.eu,Regulatory Affairs Associate,1011967,lead,2026-01-13 04:33:16
+501159,Emma,Braun,emma.braun@lasermed.de,Head of Quality Management,1012160,lead,2025-03-07 21:54:04
+501167,Wolfgang,Rossi,wolfgang.rossi@micronova.de,Senior Regulatory Consultant,1012430,lead,2026-02-01 05:54:29
+501170,Felix,Anderson,felix.anderson@nanosurg.eu,Compliance Officer,1012590,lead,2025-12-24 11:26:18
+501172,Felix,Braun,felix.braun@nanosurg.eu,Director Regulatory Affairs,1012590,lead,2025-12-15 03:45:16
+501179,Xenia,Wagner,xenia.wagner@omnicure.com,CEO,1012890,lead,2025-11-09 10:05:42
+501187,Xenia,Braun,xenia.braun@omnicure.com,Regulatory Specialist,1012890,lead,2025-11-10 12:00:30
+501190,Lisa,Rossi,lisa.rossi@pathguard.io,Senior Regulatory Consultant,1013087,lead,2025-03-08 19:57:11
+501192,Ben,Meyer,ben.meyer@pathguard.io,Regulatory Specialist,1013087,lead,2025-01-31 16:23:10
+501202,Yasmin,Mueller,yasmin.mueller@qualityfirst.de,Regulatory Affairs Associate,1013276,lead,2025-02-03 04:36:16
+501204,Charlotte,Rossi,charlotte.rossi@qualityfirst.de,Compliance Officer,1013276,lead,2025-05-24 14:19:14
+501214,Daniel,Peters,daniel.peters@radiantbio.co,Product Manager,1013478,lead,2025-08-08 11:08:57
+501219,Erik,Schulz,erik.schulz@sensomed.eu,Senior Regulatory Consultant,1013680,lead,2025-05-22 16:16:01
+501224,Sophie,Krueger,sophie.krueger@sensomed.eu,Regulatory Specialist,1013680,lead,2025-08-06 10:49:56
+501230,Petra,Kowalski,petra.kowalski@titanhealth.io,Clinical Affairs Manager,1013825,lead,2025-11-27 12:47:55
+501238,Greta,Hoffmann,greta.hoffmann@titanhealth.io,Regulatory Affairs Associate,1013825,lead,2025-09-30 20:46:33
+501244,Vera,Maier,vera.maier@ultravision.com,Director Regulatory Affairs,1014013,lead,2025-12-14 17:20:56
+501249,Uwe,Lopez,uwe.lopez@ultravision.com,Clinical Affairs Manager,1014013,lead,2026-02-04 12:57:47
+501257,Lukas,Fuchs,lukas.fuchs@verimed.io,CEO,1014211,lead,2025-09-26 16:23:57
+501265,Lena,Neumann,lena.neumann@verimed.io,Product Manager,1014211,lead,2025-06-02 23:20:05
+501272,Hans,Bianchi,hans.bianchi@woundtech.de,Risk Management Engineer,1014311,lead,2025-03-19 17:21:38
+501275,Daniel,Rossi,daniel.rossi@woundtech.de,Head of Quality Management,1014311,lead,2025-02-16 14:30:07
+501279,Stefan,Nielsen,stefan.nielsen@xraypro.com,Senior Regulatory Consultant,1014504,lead,2025-11-22 13:20:32
+501287,Ingrid,Johnson,ingrid.johnson@xraypro.com,Product Manager,1014504,lead,2025-12-12 05:57:20
+501290,Yasmin,Weber,yasmin.weber@zephyrmed.eu,Technical Documentation Specialist,1014788,lead,2025-10-08 06:38:18
+501300,Tobias,Bernard,tobias.bernard@zephyrmed.eu,Senior Regulatory Consultant,1014788,lead,2025-10-18 15:14:12
+501309,Xenia,Nielsen,xenia.nielsen@aquamed.io,Risk Management Engineer,1014991,lead,2026-01-21 18:43:15
+501319,Greta,Neumann,greta.neumann@brightpath.io,COO,1015264,lead,2025-12-28 16:18:05
+501322,Lena,Williams,lena.williams@cosmobio.co,Regulatory Affairs Associate,1015504,lead,2025-10-24 04:26:56
+501328,Greta,Mueller,greta.mueller@deltasurg.de,Compliance Officer,1015759,lead,2025-03-26 08:21:58
+501337,Michael,Martin,michael.martin@deltasurg.de,Compliance Officer,1015759,lead,2025-06-17 00:55:02
+501345,Tobias,Kaiser,tobias.kaiser@echomed.co,Post-Market Surveillance Manager,1015989,lead,2025-10-28 08:31:57
+501348,Wolfgang,Schmidt,wolfgang.schmidt@echomed.co,CEO,1015989,lead,2025-09-06 05:35:07
+501355,Hans,Kowalski,hans.kowalski@flowtech.eu,CEO,1016258,lead,2025-10-12 02:02:22
+501361,Nina,Martin,nina.martin@gammacare.io,Technical Documentation Specialist,1016415,lead,2025-12-11 23:58:32
+501363,Lisa,Kowalski,lisa.kowalski@gammacare.io,CTO,1016415,lead,2026-01-05 09:34:34
+501365,Clara,Pedersen,clara.pedersen@halohealth.co,CTO,1016671,lead,2025-08-21 16:40:02
+501367,Daniel,Koch,daniel.koch@halohealth.co,Compliance Officer,1016671,lead,2026-01-15 08:45:50
+501376,Marco,Koch,marco.koch@impactbio.de,Senior Regulatory Consultant,1016820,lead,2025-09-11 08:07:02
+501384,Tobias,Johnson,tobias.johnson@junctionmed.de,Senior Regulatory Consultant,1017087,lead,2025-05-07 08:24:22
+501391,Michael,Anderson,michael.anderson@keystonedx.com,Head of Quality Management,1017365,lead,2025-01-25 00:39:46
+501401,Yasmin,Mueller,yasmin.mueller@luminahealth.co,Clinical Affairs Manager,1017581,lead,2026-01-23 20:53:51
+501406,Amelie,Pedersen,amelie.pedersen@luminahealth.co,Regulatory Specialist,1017581,lead,2026-01-29 13:14:16
+501416,Julia,Richter,julia.richter@maxisurg.io,Clinical Affairs Manager,1017762,lead,2025-04-27 06:28:06
+501424,Quentin,Eriksson,quentin.eriksson@nexgenmed.eu,Post-Market Surveillance Manager,1018002,lead,2025-03-29 21:18:20
+501430,Florian,Fuchs,florian.fuchs@optibio.de,COO,1018294,lead,2025-06-02 12:07:37
+501436,Jan,Anderson,jan.anderson@optibio.de,CEO,1018294,lead,2025-03-19 21:35:08
+501446,Daniel,Hoffmann,daniel.hoffmann@pharmalink.eu,Compliance Officer,1018464,lead,2024-09-13 03:44:37
+501451,Lukas,Lehmann,lukas.lehmann@quadmed.de,Post-Market Surveillance Manager,1018702,lead,2025-02-07 16:37:23
+501458,Mia,Hoffmann,mia.hoffmann@rapidcure.io,Senior Regulatory Consultant,1018982,lead,2024-10-19 09:19:39
+501461,Erik,Johnson,erik.johnson@rapidcure.io,QA/RA Engineer,1018982,lead,2024-10-12 15:38:38
+501470,Erik,Zimmermann,erik.zimmermann@silksurg.com,CTO,1019188,lead,2025-06-02 15:18:21
+501478,Wolfgang,Mueller,wolfgang.mueller@truenorth.io,Clinical Affairs Manager,1019483,lead,2025-07-12 09:27:56
+501485,Sophie,Larsson,sophie.larsson@unitymed.de,Head of Quality Management,1019690,lead,2025-05-13 23:04:24
+501493,Katrin,Meyer,katrin.meyer@unitymed.de,Compliance Officer,1019690,lead,2025-05-27 05:20:09
+501498,Rosa,Schroeder,rosa.schroeder@vertexbio.io,QA/RA Engineer,1019859,lead,2024-12-12 15:23:09
+501506,Marco,Dubois,marco.dubois@wisdomhealth.com,VP Quality & Regulatory,1020144,lead,2025-06-07 08:53:22
+501511,Thomas,Bernard,thomas.bernard@wisdomhealth.com,COO,1020144,lead,2025-10-13 04:23:58
+501520,Amelie,Kowalski,amelie.kowalski@xploremed.de,Clinical Affairs Manager,1020344,lead,2024-12-05 05:04:16
+501527,Michael,Williams,michael.williams@yottacare.io,CEO,1020562,lead,2025-05-02 09:07:13
+501528,Quentin,Werner,quentin.werner@zebramed.com,Regulatory Specialist,1020745,lead,2024-11-14 16:33:55
+501536,Hans,Neumann,hans.neumann@zebramed.com,COO,1020745,lead,2024-07-20 06:32:11
+501546,Katrin,Anderson,katrin.anderson@arcticbio.com,Clinical Affairs Manager,1020965,lead,2025-12-27 16:16:19
+501550,David,Bianchi,david.bianchi@arcticbio.com,Product Manager,1020965,lead,2026-01-07 07:50:33
+501560,Uwe,Pedersen,uwe.pedersen@blazemed.de,Product Manager,1021264,lead,2025-07-27 03:01:51
+501569,Ingrid,Scholz,ingrid.scholz@cytosurg.com,Product Manager,1021369,lead,2026-02-04 10:51:50
+501572,Petra,Schulz,petra.schulz@dawnhealth.eu,Compliance Officer,1021613,lead,2025-10-01 08:17:25
+501579,Jonas,Bianchi,jonas.bianchi@evermed.com,Senior Regulatory Consultant,1021755,lead,2024-10-08 01:25:54
+501586,Lisa,Weber,lisa.weber@evermed.com,Regulatory Specialist,1021755,lead,2024-10-08 06:43:38
+501593,Leah,Lehmann,leah.lehmann@fusiondx.io,Technical Documentation Specialist,1022003,lead,2024-12-17 10:54:52
+501599,Patrick,Mueller,patrick.mueller@fusiondx.io,Regulatory Specialist,1022003,lead,2025-03-02 00:18:39
+501607,Elena,Bernard,elena.bernard@goldenpath.eu,Senior Regulatory Consultant,1022286,lead,2025-08-02 15:11:26
+501611,Erik,Braun,erik.braun@goldenpath.eu,CEO,1022286,lead,2025-07-20 03:50:07
+501617,Lena,De Vries,lena.de vries@horizonmed.co,Quality Manager,1022561,lead,2025-11-17 04:14:36
+501618,Emma,Kaiser,emma.kaiser@irisbio.com,QA/RA Engineer,1022770,lead,2025-10-03 18:21:04
+501626,Anna,Huber,anna.huber@jademed.io,Director Regulatory Affairs,1022977,lead,2024-10-06 03:23:04
+501631,Katrin,Braun,katrin.braun@jademed.io,COO,1022977,lead,2024-09-16 12:35:55
+501636,Xenia,Eriksson,xenia.eriksson@kaleidohealth.eu,QA/RA Engineer,1023258,lead,2026-01-26 15:40:58
+501637,Emma,Krueger,emma.krueger@lynxsurg.io,Compliance Officer,1023515,lead,2025-09-26 00:22:06
+501644,Simon,Meyer,simon.meyer@lynxsurg.io,Head of Regulatory Affairs,1023515,lead,2025-09-22 00:04:27
+501648,Elena,Hoffmann,elena.hoffmann@meridianbio.io,Post-Market Surveillance Manager,1023802,lead,2025-11-30 17:16:24
+501656,Anna,Mueller,anna.mueller@meridianbio.io,VP Quality & Regulatory,1023802,lead,2025-12-18 08:21:22
+501663,Laura,Weber,laura.weber@nimbushealth.eu,Regulatory Specialist,1023964,lead,2025-04-27 07:51:39
+501665,Uwe,Lehmann,uwe.lehmann@oasismed.co,Director Regulatory Affairs,1024110,lead,2026-01-28 13:31:24
+501672,Simon,Larsson,simon.larsson@peakcare.com,Post-Market Surveillance Manager,1024389,lead,2025-08-27 17:13:40
+501682,Florian,Williams,florian.williams@questbio.io,COO,1024550,lead,2025-08-26 15:55:28
+501686,Sophie,Anderson,sophie.anderson@ridgemed.de,Clinical Affairs Manager,1024815,lead,2025-11-16 19:28:50
+501688,Ingrid,Becker,ingrid.becker@summithealth.io,Regulatory Affairs Associate,1025018,lead,2025-07-26 23:02:24
+501694,Uwe,Hoffmann,uwe.hoffmann@terravita.eu,Regulatory Specialist,1025259,lead,2025-04-10 16:08:22
+501698,Marco,Lopez,marco.lopez@terravita.eu,CEO,1025259,lead,2025-06-13 01:44:11
+501699,Nina,Martin,nina.martin@urbanmed.de,Clinical Affairs Manager,1025538,lead,2024-11-28 03:25:37
+501706,Stefan,Williams,stefan.williams@urbanmed.de,Compliance Officer,1025538,lead,2024-08-20 17:14:30
+501714,Hans,Neumann,hans.neumann@valleybio.de,Regulatory Specialist,1025718,lead,2025-11-10 22:01:04
+501723,Anna,Lehmann,anna.lehmann@valleybio.de,Director Regulatory Affairs,1025718,lead,2026-01-28 02:22:29
+501730,Xenia,Bernard,xenia.bernard@windsorhealth.co,Technical Documentation Specialist,1025873,lead,2025-03-18 17:56:49
+501732,Ben,Garcia,ben.garcia@windsorhealth.co,Product Manager,1025873,lead,2024-11-27 23:22:41
+501736,David,Fuchs,david.fuchs@xenobio.eu,Post-Market Surveillance Manager,1026125,lead,2025-02-26 10:25:48
+501743,Leah,Fuchs,leah.fuchs@yellowmed.com,Risk Management Engineer,1026270,lead,2024-12-06 01:46:36
+501752,Florian,Schulz,florian.schulz@yellowmed.com,CEO,1026270,lead,2025-01-10 04:20:57
+501754,Jonas,Bernard,jonas.bernard@zionhealth.com,Regulatory Specialist,1026511,lead,2025-01-14 10:16:42
+501759,Charlotte,Neumann,charlotte.neumann@atlasbio.com,Regulatory Specialist,1026757,lead,2025-12-14 12:31:52
+501766,Hans,Kaiser,hans.kaiser@atlasbio.com,Quality Manager,1026757,lead,2026-01-16 18:10:45
+501771,Hans,Mueller,hans.mueller@bridgemed.io,Head of Regulatory Affairs,1026921,lead,2025-09-13 14:17:44
+501774,Wolfgang,Martin,wolfgang.martin@cresthealth.co,Product Manager,1027039,lead,2024-10-22 14:41:50
+501777,Xenia,Hoffmann,xenia.hoffmann@cresthealth.co,Product Manager,1027039,lead,2024-12-03 11:19:43
+501779,Vera,Huber,vera.huber@dunesmed.io,Regulatory Specialist,1027216,lead,2025-07-08 11:02:00
+501784,Erik,Kaiser,erik.kaiser@eaglebio.io,Quality Manager,1027471,lead,2025-02-24 06:30:27
+501792,Xenia,Koch,xenia.koch@fjordhealth.com,VP Quality & Regulatory,1027684,lead,2026-01-03 18:10:31
+501802,Oliver,Dubois,oliver.dubois@glaciermed.de,Head of Regulatory Affairs,1027940,lead,2025-06-28 02:18:33
+501806,Laura,Lehmann,laura.lehmann@harborbio.com,Director Regulatory Affairs,1028107,lead,2024-08-10 12:33:07
+501809,Marco,Pedersen,marco.pedersen@islandmed.eu,Senior Regulatory Consultant,1028247,lead,2025-02-26 14:02:46
+501813,Petra,Scholz,petra.scholz@jetbio.de,CTO,1028355,lead,2026-01-27 07:25:30
+501818,Elena,Bianchi,elena.bianchi@jetbio.de,Post-Market Surveillance Manager,1028355,lead,2025-11-06 09:47:48
+501819,Oliver,Martin,oliver.martin@knollhealth.de,Regulatory Affairs Associate,1028522,lead,2025-02-21 00:07:30
+501821,Stefan,Krueger,stefan.krueger@lakemed.de,Risk Management Engineer,1028787,lead,2025-07-17 18:36:24
+501829,Anna,Lehmann,anna.lehmann@lakemed.de,CEO,1028787,lead,2025-06-24 23:33:58
+501839,Jan,Lehmann,jan.lehmann@meadowbio.eu,Technical Documentation Specialist,1028965,lead,2025-05-12 04:36:21
+501843,Jonas,Mueller,jonas.mueller@northmed.io,Head of Regulatory Affairs,1029244,lead,2025-11-05 11:12:54
+501847,Emma,Nielsen,emma.nielsen@oceanhealth.eu,CTO,1029364,lead,2024-12-30 01:15:44
+501848,Amelie,Eriksson,amelie.eriksson@oceanhealth.eu,CEO,1029364,lead,2024-09-30 21:16:17
+501850,Tim,Neumann,tim.neumann@pinebio.eu,Quality Manager,1029470,lead,2024-09-08 10:10:53
+501853,Felix,Schneider,felix.schneider@quartzmed.io,Post-Market Surveillance Manager,1029717,lead,2025-03-01 10:51:32
+501860,Leah,Lehmann,leah.lehmann@quartzmed.io,Regulatory Specialist,1029717,lead,2024-12-08 03:29:32
+501870,Sarah,Hoffmann,sarah.hoffmann@riverhealth.io,Regulatory Affairs Associate,1029888,lead,2025-05-23 20:22:54
+501872,Max,Eriksson,max.eriksson@stonemed.de,Compliance Officer,1030077,lead,2025-07-23 15:57:21
+501877,Uwe,Fuchs,uwe.fuchs@tidebio.co,CTO,1030261,lead,2025-07-01 20:13:01
+501883,Lisa,Braun,lisa.braun@tidebio.co,Clinical Affairs Manager,1030261,lead,2025-04-08 18:16:58
+501886,Jonas,Wagner,jonas.wagner@uplandhealth.io,Head of Quality Management,1030370,lead,2025-10-24 08:33:05
+501892,Hans,Bernard,hans.bernard@vistamed.io,Clinical Affairs Manager,1030601,lead,2024-11-23 17:28:35
+501900,Tanja,Kaiser,tanja.kaiser@vistamed.io,VP Quality & Regulatory,1030601,lead,2024-11-06 22:30:32
+501902,Daniel,Krueger,daniel.krueger@willowbio.io,Quality Manager,1030714,lead,2024-11-27 08:31:45
+501906,Jonas,Meyer,jonas.meyer@plainsmed.io,COO,1031008,lead,2025-07-21 10:37:05
+501913,Sarah,Fischer,sarah.fischer@plainsmed.io,Product Manager,1031008,lead,2025-07-15 07:51:01
+501916,Tobias,Maier,tobias.maier@canopyhealth.de,Risk Management Engineer,1031286,lead,2024-12-11 23:45:29
+501920,Jan,Wagner,jan.wagner@grovemed.com,Director Regulatory Affairs,1031567,lead,2026-02-03 04:43:41
+501922,David,Schroeder,david.schroeder@fieldbio.de,Regulatory Affairs Associate,1031724,lead,2025-12-14 13:14:08
+501928,Patrick,Garcia,patrick.garcia@cliffhealth.io,Regulatory Specialist,1031951,lead,2026-01-12 18:54:12
+501929,Marie,Williams,marie.williams@marshmed.io,Director Regulatory Affairs,1032174,lead,2025-12-31 07:10:11
+501931,Hans,Schneider,hans.schneider@pondbio.com,Quality Manager,1032322,lead,2026-01-30 18:37:47
+501934,Lena,Huber,lena.huber@pondbio.com,Regulatory Affairs Associate,1032322,lead,2026-01-11 12:06:44
+501942,Yasmin,Larsson,yasmin.larsson@reefhealth.com,COO,1032492,lead,2025-10-21 08:20:46
+501946,Rosa,Braun,rosa.braun@slopemed.io,Director Regulatory Affairs,1032664,lead,2025-03-05 10:03:17
+501947,Simon,Zimmermann,simon.zimmermann@trailbio.de,Risk Management Engineer,1032852,lead,2025-01-18 09:53:32
+501955,Felix,Braun,felix.braun@coralhealth.eu,Senior Regulatory Consultant,1033130,lead,2025-05-16 10:01:26
+501959,Emma,Bernard,emma.bernard@dunemed.de,Regulatory Affairs Associate,1033420,lead,2026-01-30 14:12:14
+501965,Julia,De Vries,julia.de vries@fernbio.com,Post-Market Surveillance Manager,1033646,lead,2024-09-30 01:19:27
+501971,Yasmin,Braun,yasmin.braun@fernbio.com,CTO,1033646,lead,2024-08-31 11:54:05
+501981,Ben,Braun,ben.braun@glenhealth.io,Technical Documentation Specialist,1033858,lead,2025-12-30 16:37:55
+501990,Thomas,Garcia,thomas.garcia@hillmed.co,QA/RA Engineer,1034125,lead,2025-07-21 15:16:46
+501992,Petra,Eriksson,petra.eriksson@hillmed.co,Risk Management Engineer,1034125,lead,2025-03-07 02:45:45
+501993,Lena,Peters,lena.peters@inletbio.co,QA/RA Engineer,1034402,lead,2026-01-06 07:46:23
+501996,Patrick,Hartmann,patrick.hartmann@knighthealth.com,COO,1034599,lead,2025-11-02 09:30:42
+502006,Andreas,Nielsen,andreas.nielsen@ledgemed.io,Director Regulatory Affairs,1034759,lead,2025-10-23 15:58:26
+502016,Erik,Bernard,erik.bernard@moorbio.eu,Technical Documentation Specialist,1034884,lead,2024-08-22 21:39:09
+502017,David,Schroeder,david.schroeder@nesthealth.io,Head of Regulatory Affairs,1034991,lead,2025-02-09 02:36:03
+502026,Anna,Lange,anna.lange@orchardmed.de,Clinical Affairs Manager,1035128,lead,2025-02-25 00:53:54
+502029,Vera,Pedersen,vera.pedersen@orchardmed.de,CTO,1035128,lead,2024-10-14 18:12:49
+502030,Jonas,Garcia,jonas.garcia@passbio.io,Director Regulatory Affairs,1035271,lead,2024-12-29 17:08:22
+502032,Elena,Lehmann,elena.lehmann@quayhealth.eu,Regulatory Affairs Associate,1035520,lead,2024-10-11 09:20:54
+502042,Greta,Lange,greta.lange@quayhealth.eu,Director Regulatory Affairs,1035520,lead,2024-07-30 21:22:10
+502045,Emma,De Vries,emma.de vries@ravinehealth.de,QA/RA Engineer,1035790,lead,2025-06-14 19:09:25
+502054,Leah,Anderson,leah.anderson@ravinehealth.de,Compliance Officer,1035790,lead,2025-07-09 14:30:10
+502064,Yasmin,Krueger,yasmin.krueger@shelfmed.io,CEO,1035908,lead,2025-03-08 10:15:22
+502067,Charlotte,Mueller,charlotte.mueller@acumed.io,Regulatory Affairs Associate,1036184,lead,2025-04-08 10:40:34
+502077,Lukas,Lopez,lukas.lopez@biovance.eu,Compliance Officer,1036311,lead,2026-01-14 00:55:20
+502087,Erik,Schulz,erik.schulz@clearpath.com,Regulatory Specialist,1036416,lead,2025-10-14 05:02:34
+502091,Uwe,Koch,uwe.koch@dentalpro.eu,Regulatory Specialist,1036671,lead,2025-10-06 00:40:20
+502097,Lisa,Mueller,lisa.mueller@dentalpro.eu,Compliance Officer,1036671,lead,2025-07-31 06:03:48
+502099,Quentin,Wagner,quentin.wagner@evomed.de,Quality Manager,1036827,lead,2024-12-05 07:01:25
+502106,Lisa,Kowalski,lisa.kowalski@evomed.de,QA/RA Engineer,1036827,lead,2024-10-12 03:44:20
+502113,Yasmin,Werner,yasmin.werner@flexisurg.co,VP Quality & Regulatory,1037087,lead,2025-11-15 13:46:03
+502121,Lena,Williams,lena.williams@flexisurg.co,Compliance Officer,1037087,lead,2025-12-23 18:33:22
+502124,Elena,Schneider,elena.schneider@genomatech.io,CTO,1037280,lead,2024-11-20 03:43:00
+502129,Greta,Weber,greta.weber@genomatech.io,Regulatory Affairs Associate,1037280,lead,2024-11-28 14:19:22
+502132,Marco,Meyer,marco.meyer@healthbridge.eu,Technical Documentation Specialist,1037424,lead,2024-12-31 05:08:41
+502133,Simon,Koch,simon.koch@innocare.eu,Senior Regulatory Consultant,1037566,lead,2025-06-23 00:54:16
+502136,David,Wagner,david.wagner@innocare.eu,Clinical Affairs Manager,1037566,lead,2025-05-04 07:37:15
+502143,Hannah,Zimmermann,hannah.zimmermann@jointflex.io,VP Quality & Regulatory,1037695,lead,2025-02-26 10:28:52
+502144,Tobias,Bianchi,tobias.bianchi@jointflex.io,Technical Documentation Specialist,1037695,lead,2025-04-12 20:15:11
+502147,Xenia,Mueller,xenia.mueller@kinemed.com,CEO,1037937,lead,2025-03-23 12:58:07
+502157,Marie,Wagner,marie.wagner@lifelink.eu,QA/RA Engineer,1038153,lead,2025-07-10 19:27:07
+502162,Felix,Jansen,felix.jansen@lifelink.eu,CEO,1038153,lead,2025-12-05 01:21:22
+502169,Erik,Eriksson,erik.eriksson@medcore.eu,Risk Management Engineer,1038280,lead,2024-11-26 23:19:01
+502176,Lukas,Lehmann,lukas.lehmann@medcore.eu,COO,1038280,lead,2025-03-18 15:49:35
+502179,Clara,Schwarz,clara.schwarz@novascan.eu,Product Manager,1038536,lead,2025-04-18 06:32:42
+502183,Rosa,Bianchi,rosa.bianchi@novascan.eu,VP Quality & Regulatory,1038536,lead,2025-02-09 05:08:55
+502185,Julia,Scholz,julia.scholz@orthogen.io,Compliance Officer,1038802,lead,2025-01-19 08:41:04
+502194,David,Peters,david.peters@orthogen.io,Senior Regulatory Consultant,1038802,lead,2024-12-22 22:44:49
+502203,Lena,Neumann,lena.neumann@precisionrx.eu,Regulatory Specialist,1038931,lead,2026-01-11 04:26:59
+502210,Andreas,Schneider,andreas.schneider@precisionrx.eu,Post-Market Surveillance Manager,1038931,lead,2026-01-12 14:34:06
+502220,Hans,Maier,hans.maier@qualitech.de,QA/RA Engineer,1039202,lead,2025-07-25 11:41:08
+502224,Ingrid,Schneider,ingrid.schneider@regenmed.com,Senior Regulatory Consultant,1039408,lead,2025-03-23 22:21:42
+502228,Mia,Schwarz,mia.schwarz@surgisafe.eu,Regulatory Specialist,1039684,lead,2026-01-15 07:12:17
+502230,Marco,Fuchs,marco.fuchs@techvita.com,Product Manager,1039809,lead,2025-02-18 23:13:07
+502239,Jan,Mueller,jan.mueller@techvita.com,Post-Market Surveillance Manager,1039809,lead,2025-04-02 04:14:36
+502246,Sophie,Schulz,sophie.schulz@unimed.de,VP Quality & Regulatory,1040010,lead,2025-07-11 21:29:09
+502248,Stefan,Bernard,stefan.bernard@vascutech.de,Senior Regulatory Consultant,1040274,lead,2025-03-08 02:40:20
+502253,Simon,De Vries,simon.de vries@wellpath.de,Technical Documentation Specialist,1040518,lead,2025-12-03 00:54:02
+502254,Lukas,Braun,lukas.braun@wellpath.de,Regulatory Affairs Associate,1040518,lead,2025-11-06 04:37:20
+502255,Vera,Nielsen,vera.nielsen@xenomed.co,Technical Documentation Specialist,1040702,lead,2025-10-21 20:16:01
+502260,Xenia,Schmidt,xenia.schmidt@xenomed.co,CEO,1040702,lead,2025-11-05 08:01:00
+502265,Erik,Nielsen,erik.nielsen@zenithbio.com,Compliance Officer,1040866,lead,2025-12-23 20:57:12
+502268,Tanja,Maier,tanja.maier@zenithbio.com,CTO,1040866,lead,2026-01-06 05:00:39
+502273,Mia,Williams,mia.williams@alphadevice.de,Head of Quality Management,1041057,lead,2024-07-18 03:27:43
+502277,Sophie,De Vries,sophie.de vries@alphadevice.de,COO,1041057,lead,2024-11-15 18:45:13
+502278,Elena,Krueger,elena.krueger@betalab.com,Regulatory Affairs Associate,1041224,lead,2025-06-29 13:11:33
+502281,Lukas,Klein,lukas.klein@cardiosync.io,Clinical Affairs Manager,1041445,lead,2025-03-16 21:52:34
+502282,Clara,Kaiser,clara.kaiser@diagnostech.eu,COO,1041673,lead,2025-06-26 14:26:26
+502286,Xenia,Kaiser,xenia.kaiser@elitemed.io,VP Quality & Regulatory,1041890,lead,2025-10-11 18:41:07
+502287,Petra,Lehmann,petra.lehmann@elitemed.io,Head of Quality Management,1041890,lead,2025-10-08 20:05:53
+502290,Patrick,Rossi,patrick.rossi@frontierbio.com,QA/RA Engineer,1042099,lead,2025-07-29 16:15:06
+502295,Michael,Nielsen,michael.nielsen@frontierbio.com,Head of Regulatory Affairs,1042099,lead,2025-06-12 23:46:55
+502302,Katrin,Bianchi,katrin.bianchi@glucosense.co,Clinical Affairs Manager,1042281,lead,2025-12-15 16:13:29
+502306,Daniel,Wolf,daniel.wolf@heliocare.io,Senior Regulatory Consultant,1042521,lead,2025-07-13 10:52:30
+502315,Thomas,Larsson,thomas.larsson@immunogen.co,Director Regulatory Affairs,1042750,lead,2025-10-28 04:03:32
+502318,Oliver,Schwarz,oliver.schwarz@jurahealth.eu,CEO,1043034,lead,2025-05-12 22:46:24
+502323,Yasmin,Werner,yasmin.werner@kardiomed.eu,Clinical Affairs Manager,1043250,lead,2026-01-11 14:04:57
+502331,Tanja,Larsson,tanja.larsson@kardiomed.eu,Regulatory Affairs Associate,1043250,lead,2026-01-14 19:46:40
+502341,Anna,Dubois,anna.dubois@lumosdx.com,COO,1043445,lead,2025-08-11 00:00:05
+502350,Tanja,Larsson,tanja.larsson@morphosurg.co,Regulatory Specialist,1043568,lead,2025-05-19 12:53:22
+502356,Rosa,Johnson,rosa.johnson@morphosurg.co,Product Manager,1043568,lead,2025-06-27 14:28:12
+502361,Marie,Schulz,marie.schulz@neurolink.io,Compliance Officer,1043811,lead,2024-10-02 14:53:20
+502362,Mia,Fuchs,mia.fuchs@neurolink.io,Director Regulatory Affairs,1043811,lead,2024-10-28 09:40:17
+502363,Stefan,Schwarz,stefan.schwarz@optivision.com,Regulatory Affairs Associate,1044095,lead,2025-09-08 03:21:11
+502370,Michael,Schneider,michael.schneider@optivision.com,Clinical Affairs Manager,1044095,lead,2025-07-11 20:09:27
+502376,Daniel,Bernard,daniel.bernard@probiomed.com,Technical Documentation Specialist,1044342,lead,2025-12-28 19:02:40
+502382,Katrin,Eriksson,katrin.eriksson@quantumcare.de,QA/RA Engineer,1044531,lead,2026-01-25 13:43:19
+502387,Greta,Jansen,greta.jansen@quantumcare.de,Product Manager,1044531,lead,2025-10-30 02:58:18
+502396,Daniel,Lange,daniel.lange@robosurg.eu,Compliance Officer,1044740,lead,2025-01-11 18:50:21
+502402,Michael,Krueger,michael.krueger@synaptimed.de,CTO,1044847,lead,2025-07-17 12:19:23
+502408,Patrick,Zimmermann,patrick.zimmermann@terramed.com,VP Quality & Regulatory,1044983,lead,2025-11-06 20:38:33
+502416,David,Johnson,david.johnson@terramed.com,Regulatory Specialist,1044983,lead,2025-11-27 21:27:33
+502424,Sarah,Becker,sarah.becker@ultracare.eu,Regulatory Affairs Associate,1045106,lead,2025-06-11 14:11:09
+502433,Sophie,Fischer,sophie.fischer@vivotech.com,Director Regulatory Affairs,1045246,lead,2025-02-05 00:16:53
+502436,Marie,Lange,marie.lange@vivotech.com,Head of Quality Management,1045246,lead,2024-11-13 21:55:19
+502439,Andreas,Richter,andreas.richter@wavepoint.io,Technical Documentation Specialist,1045359,lead,2025-06-27 15:36:14
+502445,Emma,Richter,emma.richter@wavepoint.io,Quality Manager,1045359,lead,2025-04-04 20:31:37
+502446,Rosa,Wolf,rosa.wolf@xcelmed.co,QA/RA Engineer,1045628,lead,2025-05-08 16:51:18
+502456,Amelie,Koch,amelie.koch@xcelmed.co,Regulatory Specialist,1045628,lead,2025-03-20 19:28:23
+502459,Emma,Huber,emma.huber@yieldbio.co,Technical Documentation Specialist,1045757,lead,2025-06-21 01:59:09
+502466,Anna,Schneider,anna.schneider@yieldbio.co,COO,1045757,lead,2025-07-14 13:16:01
+502467,Amelie,Martin,amelie.martin@ablemed.co,Head of Regulatory Affairs,1045981,lead,2024-07-09 20:41:38
+502471,Oliver,Nielsen,oliver.nielsen@ablemed.co,CEO,1045981,lead,2024-11-10 09:58:42
+502474,Yasmin,Dubois,yasmin.dubois@biocrest.eu,QA/RA Engineer,1046095,lead,2025-03-28 12:53:41
+502476,Tanja,Zimmermann,tanja.zimmermann@cerebrotech.de,Post-Market Surveillance Manager,1046269,lead,2025-04-04 12:42:50
+502486,Max,Larsson,max.larsson@dynastim.eu,CTO,1046402,lead,2025-07-20 15:33:27
+502494,Wolfgang,Klein,wolfgang.klein@dynastim.eu,Regulatory Affairs Associate,1046402,lead,2025-02-21 03:24:49
+502495,Oliver,Kowalski,oliver.kowalski@endovault.com,Clinical Affairs Manager,1046520,lead,2025-11-01 16:53:02
+502496,Hans,Lehmann,hans.lehmann@ferrocare.eu,Quality Manager,1046700,lead,2025-06-04 04:24:55
+502503,Thomas,Bernard,thomas.bernard@geneticore.eu,Quality Manager,1046829,lead,2025-06-07 03:13:27
+502505,Simon,Schmidt,simon.schmidt@geneticore.eu,VP Quality & Regulatory,1046829,lead,2025-02-23 15:39:26
+502512,Yasmin,Becker,yasmin.becker@hypermed.io,Technical Documentation Specialist,1046951,lead,2024-10-24 03:33:54
+502515,Nina,Nielsen,nina.nielsen@hypermed.io,Head of Regulatory Affairs,1046951,lead,2024-11-18 01:42:08
+502520,Hannah,Wagner,hannah.wagner@infosurg.eu,Product Manager,1047185,lead,2025-01-05 22:47:28
+502530,Mia,Nielsen,mia.nielsen@infosurg.eu,VP Quality & Regulatory,1047185,lead,2024-10-03 09:24:40
+502539,Stefan,Becker,stefan.becker@jetstream.co,Technical Documentation Specialist,1047484,lead,2026-01-22 14:40:10
+502543,Thomas,Schwarz,thomas.schwarz@kryptohealth.de,Clinical Affairs Manager,1047633,lead,2024-12-28 15:11:20
+502549,Stefan,Koch,stefan.koch@lasermed.de,Technical Documentation Specialist,1047793,lead,2025-08-31 18:58:21
+502553,Leah,Jansen,leah.jansen@lasermed.de,Head of Regulatory Affairs,1047793,lead,2025-10-19 15:50:35
+502554,Hans,Bianchi,hans.bianchi@micronova.io,Director Regulatory Affairs,1048087,lead,2025-08-29 17:15:29
+502556,Charlotte,Kowalski,charlotte.kowalski@nanosurg.co,Product Manager,1048380,lead,2025-11-06 04:25:58
+502560,Stefan,Schwarz,stefan.schwarz@omnicure.io,VP Quality & Regulatory,1048562,lead,2025-09-01 23:33:04
+502563,Clara,Zimmermann,clara.zimmermann@omnicure.io,CTO,1048562,lead,2025-08-14 06:00:01
+502570,Greta,Schneider,greta.schneider@pathguard.co,Director Regulatory Affairs,1048775,lead,2024-12-03 19:30:32
+502573,Wolfgang,Maier,wolfgang.maier@qualityfirst.eu,Product Manager,1048893,lead,2025-12-07 04:52:42
+502575,Xenia,Lange,xenia.lange@qualityfirst.eu,Regulatory Affairs Associate,1048893,lead,2025-07-21 04:53:20
+502582,Rosa,Peters,rosa.peters@radiantbio.io,Technical Documentation Specialist,1049012,lead,2025-09-12 07:37:35
+502589,Simon,Koch,simon.koch@radiantbio.io,Quality Manager,1049012,lead,2025-05-31 11:39:08
+502592,Sophie,Garcia,sophie.garcia@sensomed.de,Head of Quality Management,1049230,lead,2025-08-20 15:35:54
+502595,Thomas,Werner,thomas.werner@titanhealth.com,Director Regulatory Affairs,1049412,lead,2026-01-26 05:23:13
+502603,Erik,Becker,erik.becker@titanhealth.com,Head of Quality Management,1049412,lead,2026-02-05 00:22:38
+502604,Quentin,Williams,quentin.williams@ultravision.com,Post-Market Surveillance Manager,1049599,lead,2025-09-20 04:22:48
+502614,Hannah,Lange,hannah.lange@verimed.de,VP Quality & Regulatory,1049762,lead,2025-04-11 12:56:24
+502621,Laura,Werner,laura.werner@woundtech.eu,Regulatory Affairs Associate,1049955,lead,2025-09-18 00:20:29
+502624,Anna,Williams,anna.williams@xraypro.co,Post-Market Surveillance Manager,1050228,lead,2025-07-03 10:03:58
+502632,Katrin,Weber,katrin.weber@zephyrmed.de,CTO,1050501,lead,2024-12-01 14:06:50
+502636,Vera,Braun,vera.braun@zephyrmed.de,Compliance Officer,1050501,lead,2024-07-28 09:27:04
+502645,Tobias,Neumann,tobias.neumann@aquamed.io,Head of Quality Management,1050686,lead,2025-06-03 01:10:29
+502655,Lisa,Meyer,lisa.meyer@aquamed.io,Head of Quality Management,1050686,lead,2025-10-21 01:05:31
+502661,Erik,Williams,erik.williams@brightpath.eu,Regulatory Affairs Associate,1050819,lead,2025-07-06 13:51:33
+502668,Marco,Rossi,marco.rossi@cosmobio.io,Regulatory Specialist,1050951,lead,2025-01-01 14:16:14
