@@ -1,4 +1,4 @@
-# Flinn BI Challenge — README
+# Flinn BI Challenge - README
 
 ## Q1 - How many customers do we have today?
 
